@@ -1,0 +1,112 @@
+/*---------------------------------
+ BACKGROUND
+-----------------------------------*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0e0e0e;
+}
+/*---------------------------------
+-----------------------------------*/
+
+
+/*-------------------------
+     SELECT DROPDOWN
+ -------------------------*/
+
+/*-------------------------
+ Positioning
+ -------------------------*/
+
+/* Center */
+/* .lang{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+ */
+
+
+/* Top right */
+ .lang{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  text-align: center;
+  margin: 1.2rem 13.5rem;
+} 
+
+/*-------------------------
+ End of positioning
+ -------------------------*/
+
+
+/* 
+<select> options background color | font size | padding
+*/
+.lang .select{
+  background-color:#999999;
+  background-image:linear-gradient(180deg,#000101,#000101);
+  font-size:13px;
+  padding-right:26px;
+}
+
+/* Icons alignment*/
+.select-wrapper{
+  display:inline;
+  position:relative;
+}
+
+/* Custom Arrow Down Icon */
+.select-wrapper :after{
+  content:url(../img/caret-down-solid.svg);  
+  filter: invert(100%) sepia(94%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
+  width: 10px;
+  height: 10px;
+  pointer-events:none;
+  position:absolute;
+  right:15px;
+  top:8px;
+}
+
+/* Globe w/ Meridians Icon */
+.select-wrapper .globe:before{
+  content:url(../img/globe-solid.svg);  
+  filter: invert(100%) sepia(94%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
+  width: 17px;
+  height: 17px;
+  pointer-events:none;
+  position:absolute;
+  left:12px;
+  top:8px;
+}
+
+/* 
+Padding between the globe icon and selected language
+*/
+.select-wrapper .select {
+  line-height:1.7;
+  padding-left:40px;
+}
+
+/* 
+Select border color and radius
+Hides default arrow
+*/
+.select{
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  border:1px solid #b3b3b3;
+  border-radius:2px;
+  width:100%;
+}
+
+/* Font color | select padding and margin */
+.select {
+  padding:5px;
+  color: #fff;
+  margin-right: 0.5rem;
+}

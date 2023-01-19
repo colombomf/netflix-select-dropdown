@@ -1,0 +1,23 @@
+{
+  "name": "netflix-select-dropdown",
+  "version": "1.0.0",
+  "description": "Netflix select dropdown menu. Includes both the custom arrow and globe icon.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "netflix-select-dropdown"
+  },
+  "keywords": [
+    "netflix",
+    "select",
+    "menu"
+  ],
+  "author": "@biokoder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
