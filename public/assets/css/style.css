@@ -128,17 +128,63 @@ Hides default arrow
 } */
 
 
-/* Screens with a width of 768px or less */
-@media only screen and (max-width: 1025px) {
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 2000px) {
+  .lang{
+    margin: 1.2rem 0.5rem;
+  } 
+}
+
+
+@media screen and (max-width: 480px) {
   .lang{
     margin: 1.2rem 1.5rem;
   } 
 }
 
 
-/* Screens with a width of 768px or less */
-@media only screen and (max-width: 1025px) {
+
+/* XS */
+@media (max-width: 320px) {
   .lang{
     margin: 1.2rem 1.5rem;
   } 
 }
+
+/* SM */
+@media (min-width: 321px) and (max-width: 375px) {
+  .lang{
+    margin: 1.2rem 1.5rem;
+  } 
+}
+
+/* LG */
+@media (min-width: 376px) and (max-width: 768px) {
+  .lang{
+    margin: 1.2rem 1.5rem;
+  } 
+}
+
+/* XL 1 */
+@media (min-width: 768px) and (max-width: 1025px) {
+  .lang{
+    margin: 1.2rem 1.5rem;
+  } 
+}
+
+/* XL 2 */
+@media (min-width: 1200px) and (max-width: 1999px) {
+  .lang{
+    margin: 1.2rem 1.5rem;
+  } 
+}
+
+/* XL 3 */
+
+@media screen and (min-width: 2010px) {
+  .lang{
+    margin: 1.2rem 1.5rem;
+  } 
+}
+
