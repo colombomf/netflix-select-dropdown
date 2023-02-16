@@ -9,13 +9,10 @@ This is not a Netflix clone. Rather, it is my own version of the Netflix languag
 ## Tech Stack
 This implementation uses HTML5 and CSS3 with no additional plugins or libraries.
 
+## Implementation Examples
+• https://codepen.io/ripperdok/pen/NWBXYVo
 
-## Live Demo
-Check out the live example: https://keen-cactus-dc98d1.netlify.app/
-
-
-## Implementation Example
-Here is an implementation example: https://codepen.io/ripperdok/pen/NWBXYVo
+• https://keen-cactus-dc98d1.netlify.app/
 
 
 ## How to Use
@@ -33,7 +30,7 @@ Alternatively, you can use one of these methods:
 
 ### • Edit the code on CodePen.
 1. Log in to CodePen (or sign up for an account)
-2. Visit the pen at [https://codepen.io/](https://codepen.io/ripperdok/pen/NWBXYVo)
+2. Visit the pen at [https://codepen.io/ripperdok/pen/NWBXYVo/](https://codepen.io/ripperdok/pen/NWBXYVo)
 3. Click "Fork" to create a copy
 4. Click "Edit on CodePen" to open the editor
 5. Make changes and click "Save"
@@ -45,10 +42,6 @@ Alternatively, you can use one of these methods:
 4. Navigate to the "public" folder
 5. Use the index and assets (css and images) in your project
 
-<img src="https://github.com/colombomf/netflix-select-dropdown/blob/main/public/assets/img/select-dropdown-button.gif" alt="Netflix Select Dropdown"  />
-
-
 ## 
-If you find this Select Language Menu useful, please consider starring the repository. 
-Thank you! </br>
-[![GitHub stars](https://img.shields.io/github/stars/colombomf/netflix-select-dropdown.svg?style=social&label=Star)](https://github.com/colombomf/netflix-select-dropdown)
+If you find this project useful, please consider giving it a star by clicking on the star button at the top of the page. </br>
+Your support is greatly appreciated!</br>
