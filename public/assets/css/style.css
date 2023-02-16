@@ -9,7 +9,6 @@ html, body {
 /*---------------------------------
 -----------------------------------*/
 
-
 /*-------------------------
      SELECT DROPDOWN
  -------------------------*/
@@ -62,7 +61,7 @@ html, body {
   position:relative;
 }
 
-/* Custom Arrow Down Icon */
+/* Custom arrow down icon */
 .select-wrapper:after{
   content:url(../img/caret-down-solid.svg);  
   filter: invert(100%) sepia(94%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
@@ -74,7 +73,7 @@ html, body {
   top:8px;
 }
 
-/* Globe with Meridians Icon */
+/* Globe with Meridians icon */
 .select-wrapper:before{
   content:url(../img/globe-solid.svg);  
   filter: invert(100%) sepia(94%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
