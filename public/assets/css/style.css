@@ -74,7 +74,7 @@ html, body {
   top:8px;
 }
 
-/* Globe w/ Meridians Icon */
+/* Globe with Meridians Icon */
 .select-wrapper:before{
   content:url(../img/globe-solid.svg);  
   filter: invert(100%) sepia(94%) saturate(0%) hue-rotate(248deg) brightness(106%) contrast(106%);
