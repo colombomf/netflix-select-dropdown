@@ -1,9 +1,10 @@
 # Netflix Language Select Menu
-Styling select menus can be challenging depending on the level of customization required but adding details can also add that extra touch of polish and make your project stand out!
+Styling select menus can be challenging, depending on the level of customization required. However, adding details can add an extra touch of polish and make your project stand out! 
 
-I've noticed that Netflix clones often do not include a language select menu with both icons, so I decided to try implementing it myself.  
+I noticed that Netflix clones often do not include a language select menu with both icons, so I decided to try implementing it myself. 
 
-This is not a Netflix clone. Rather, it is my own version of the Netflix language select menu that you can utilize for your projects.
+This is not a Netflix clone, but rather my own version of the Netflix language select menu that you can use in your own projects.
+
 <img src="https://github.com/colombomf/netflix-select-dropdown/blob/main/public/assets/img/select-dropdown-2.gif" alt="Netflix Select Dropdown"  />
 
 ## Tech Stack
