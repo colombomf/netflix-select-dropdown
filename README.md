@@ -11,7 +11,7 @@ This is not a Netflix clone, but rather my own version of the Netflix language s
 This implementation uses HTML5 and CSS3 with no additional plugins or libraries.
 
 ## Implementation Examples
-• https://codepen.io/ripperdok/pen/NWBXYVo
+• https://codepen.io/ripperdok/pen/NWBwXyx
 
 • https://keen-cactus-dc98d1.netlify.app/
 
